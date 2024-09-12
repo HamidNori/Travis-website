@@ -8,8 +8,10 @@ body {
     height: 100vh;
 }
 
+
 .container {
     display: grid;
+    justify-content: space-evenly;
     gap: 20px;
     padding: 20px;
     max-width: 1200px;
@@ -62,3 +64,4 @@ body {
 .bilder {
     text-align: center;
 }
+
